@@ -13,7 +13,8 @@
   "scripts": {
     "test": "jest",
     "lerna": "lerna",
-    "lint": "eslint  --fix ./"
+    "lint": "eslint  --fix ./",
+    "prepublish": "yarn lint && yarn test"
   },
   "husky": {
     "hooks": {

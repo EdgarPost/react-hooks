@@ -1,7 +1,7 @@
 {
   "name": "react-use-shared-ref",
   "version": "1.0.3",
-  "description": "Use shared ref React hook",
+  "description": "Use React refs across components without forwardRef.",
   "main": "dist/useSharedRef.js",
   "license": "MIT",
   "repository": "git@github.com:EdgarPost/react-hooks.git",
