@@ -1,6 +1,6 @@
 {
   "name": "react-use-shared-ref",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Use React refs across components without forwardRef.",
   "main": "dist/useSharedRef.js",
   "license": "MIT",
