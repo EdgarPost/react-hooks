@@ -1,6 +1,6 @@
 import React from "react";
 import { act, renderHook } from "@testing-library/react-hooks";
-import useSharedRef, { RefContextProvider } from "./useSharedRef";
+import useSharedRef, { RefContextProvider } from "../useSharedRef";
 
 const createWrapper = () => props =>
   React.createElement(RefContextProvider, props);
