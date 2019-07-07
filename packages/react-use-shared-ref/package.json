@@ -6,9 +6,6 @@
   "license": "MIT",
   "repository": "git@github.com:EdgarPost/react-hooks.git",
   "author": "Edgar Post <info@edgarpost.com>",
-  "scripts": {
-    "build": "rollup -c"
-  },
   "peerDependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6"

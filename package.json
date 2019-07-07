@@ -15,7 +15,7 @@
     "lerna": "lerna",
     "build": "rollup -c",
     "lint": "eslint  --fix ./",
-    "prepublish": "yarn lint && yarn test"
+    "prepublish": "yarn lint && yarn test && yarn build"
   },
   "husky": {
     "hooks": {
