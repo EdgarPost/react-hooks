@@ -7,6 +7,10 @@
 
 With this hook you can use `refs` across components without prop drilling. They're stored in a React context instance.
 
+## Installation
+
+`npm install --save react-use-shared-ref` or `yarn add react-use-shared-ref`.
+
 ## Usage
 
 First wrap your `<App />` inside the `RefContextProvider`:
