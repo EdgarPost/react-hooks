@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "git@github.com:EdgarPost/react-hooks.git",
   "author": "Edgar Post <info@edgarpost.com>",
-  "homepage": "https://github.com/EdgarPost/react-hooks/tree/master/packages/react-use-shared-ref",
+  "homepage": "https://github.com/EdgarPost/react-hooks/tree/master/packages/react-use-shared-ref#readme",
   "peerDependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6"
